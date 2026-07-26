@@ -7,7 +7,8 @@ import { useSelector } from "react-redux";
 
 const MainLayout = ({ children }) => {
   const location = useLocation();
-  const isAuthPage = location.pathname === '/login' || location.pathname === '/signup';
+  const path = location.pathname.endsWith('/') && location.pathname !== '/' ? location.pathname.slice(0, -1) : location.pathname;
+  const isAuthPage = path === '/login' || path === '/signup';
 
   // Redux state
   const cartItems = useSelector((state) => state.cart.items);

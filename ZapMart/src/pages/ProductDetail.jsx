@@ -81,24 +81,24 @@ const ProductDetail = () => {
         {/* Right Side: Product Info */}
         <div className="w-full md:w-3/5 p-4 sm:p-6">
           {/* Breadcrumb */}
-          <div className="text-xs text-gray-500 mb-2 flex items-center gap-1">
+          <div className="text-xs text-gray-500 mb-2 flex items-center gap-1 dark:text-slate-400">
             <Link to="/" className="hover:text-primary">Home</Link> <ChevronRight className="w-3 h-3" /> 
             <Link to={`/shop?category=${product.category}`} className="hover:text-primary">{product.category}</Link> <ChevronRight className="w-3 h-3" /> 
-            <span className="font-semibold text-gray-800 line-clamp-1">{product.title}</span>
+            <span className="font-semibold text-gray-800 line-clamp-1 dark:text-slate-300">{product.title}</span>
           </div>
 
-          <h1 className="text-lg md:text-2xl text-gray-900 font-medium leading-tight mt-2">{product.title}</h1>
+          <h1 className="text-lg md:text-2xl text-gray-900 font-medium leading-tight mt-2 dark:text-white">{product.title}</h1>
           
           <div className="flex items-center gap-2 mt-2">
             <span className="bg-green-600 text-white text-xs px-1.5 py-0.5 rounded flex items-center font-bold">
               {product.rating} <Star className="w-3 h-3 ml-1 fill-current" />
             </span>
-            <span className="text-gray-500 text-xs md:text-sm font-medium cursor-pointer hover:text-primary">{product.reviews.toLocaleString()} Ratings & Reviews</span>
+            <span className="text-gray-500 text-xs md:text-sm font-medium cursor-pointer hover:text-primary dark:text-slate-400">{product.reviews.toLocaleString()} Ratings & Reviews</span>
             <span className="text-green-600 font-medium text-xs md:text-sm ml-2 bg-green-50 px-1 rounded hidden md:inline-block">Extra Discount</span>
           </div>
 
           <div className="mt-4 flex items-end gap-3">
-            <span className="text-3xl md:text-4xl font-bold text-gray-900">₹{product.price.toLocaleString()}</span>
+            <span className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">₹{product.price.toLocaleString()}</span>
             <span className="text-gray-500 line-through text-sm md:text-base mb-1">₹{product.originalPrice.toLocaleString()}</span>
             <span className="text-green-600 font-bold text-sm md:text-base mb-1">{product.discount}% off</span>
           </div>
@@ -107,7 +107,7 @@ const ProductDetail = () => {
           {/* Offers */}
           <div className="mt-6 border-t border-slate-100 pt-6 dark:border-slate-800">
             <h3 className="font-semibold mb-3 text-slate-800 dark:text-slate-100">Available offers</h3>
-            <div className="space-y-2.5 text-sm text-gray-700">
+            <div className="space-y-2.5 text-sm text-gray-700 dark:text-slate-300">
               <p className="flex gap-2 items-start"><Tag className="w-4 h-4 text-green-600 shrink-0 mt-0.5" /> <span><b>Bank Offer:</b> 10% off on HDFC Bank Credit Card EMI Transactions, up to ₹1,500.</span></p>
               <p className="flex gap-2 items-start"><Tag className="w-4 h-4 text-green-600 shrink-0 mt-0.5" /> <span><b>Bank Offer:</b> 5% Cashback on Flipkart Axis Bank Card.</span></p>
               <p className="flex gap-2 items-start"><Tag className="w-4 h-4 text-green-600 shrink-0 mt-0.5" /> <span><b>Special Price:</b> Get extra {product.discount}% off (price inclusive of cashback/coupon).</span></p>
@@ -120,17 +120,17 @@ const ProductDetail = () => {
             <div>
               <div className="flex items-center border-b-2 border-primary pb-1 w-fit">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-primary mr-2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
-                <input type="text" placeholder="Enter Delivery Pincode" className="outline-none text-sm font-medium w-40" />
+                <input type="text" placeholder="Enter Delivery Pincode" className="outline-none text-sm font-medium w-40 bg-transparent dark:text-white" />
                 <span className="text-primary font-medium text-sm cursor-pointer">Check</span>
               </div>
-              <p className="text-sm font-bold mt-3">Delivery by Tomorrow | <span className="text-green-600 font-bold">Free</span> <span className="text-gray-500 line-through">₹40</span></p>
+              <p className="text-sm font-bold mt-3 dark:text-slate-200">Delivery by Tomorrow | <span className="text-green-600 font-bold">Free</span> <span className="text-gray-500 line-through">₹40</span></p>
             </div>
           </div>
 
           {/* Highlights & Seller */}
           <div className="mt-6 flex gap-4 sm:gap-16 border-t border-slate-100 pt-6 dark:border-slate-800">
             <div className="w-24 text-sm text-gray-500 font-semibold hidden md:block">Highlights</div>
-            <ul className="text-sm text-gray-800 space-y-2 list-disc pl-4">
+            <ul className="text-sm text-gray-800 space-y-2 list-disc pl-4 dark:text-slate-300">
               <li>Premium Quality {product.category} Product</li>
               <li>Highly rated ({product.rating} Stars) by {product.reviews} users</li>
               <li>1 Year Brand Warranty</li>
@@ -148,7 +148,7 @@ const ProductDetail = () => {
                     4.9 <Star className="w-2.5 h-2.5 ml-0.5 fill-white" />
                  </span>
               </div>
-              <ul className="mt-2 text-gray-600 space-y-1">
+              <ul className="mt-2 text-gray-600 space-y-1 dark:text-slate-300">
                  <li className="flex items-center gap-2"><Check className="w-3.5 h-3.5 text-primary" /> 7 Days Replacement Policy</li>
                  <li className="flex items-center gap-2"><Check className="w-3.5 h-3.5 text-primary" /> GST invoice available</li>
               </ul>

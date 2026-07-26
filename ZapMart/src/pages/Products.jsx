@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Filter, ChevronDown, Heart, Star, ChevronRight, Check, ArrowDownUp, ArrowUpDown, X, CheckCircle2, ShoppingCart } from "lucide-react";
+import { Filter, ChevronDown, Heart, Star, ChevronRight, Check, ArrowDownUp, ArrowUpDown, X, CheckCircle2, ShoppingCart, Package } from "lucide-react";
 import InfiniteScroll from "react-infinite-scroll-component";
 import { useSearchParams, useNavigate } from "react-router-dom";
 import productsData from "../data/products.json";
@@ -137,89 +137,107 @@ const Products = () => {
             {/* Hint Text Removed */}
 
             {/* Product Grid with Infinite Scroll */}
-            <InfiniteScroll
-              dataLength={items.length}
-              next={fetchMoreData}
-              hasMore={items.length < allFiltered.length}
-              loader={
-                <div className="flex justify-center py-6 col-span-full">
-                  <div className="w-8 h-8 border-4 border-primary border-t-transparent rounded-full animate-spin"></div>
+            {allFiltered.length === 0 ? (
+              <div className="flex flex-col items-center justify-center py-20 px-4 text-center">
+                <div className="w-24 h-24 bg-slate-100 rounded-full flex items-center justify-center mb-4 dark:bg-slate-800">
+                  <Package className="w-12 h-12 text-slate-400" />
                 </div>
-              }
-              className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-1 md:gap-5"
-            >
-              {items.map((product, idx) => (
-                <div 
-                  key={idx} 
-                  onClick={() => navigate(`/product/${product.id}`)}
-                  className="bg-white md:rounded-2xl shadow-[0_1px_2px_rgba(0,0,0,0.05)] md:shadow-sm border-r border-b md:border border-slate-100 md:hover:shadow-xl md:hover:border-primary/30 transition-all duration-300 group relative flex flex-col cursor-pointer dark:bg-slate-900 dark:border-slate-800"
+                <h2 className="text-xl font-bold text-slate-800 mb-2 dark:text-slate-100">No products found</h2>
+                <p className="text-slate-500 max-w-sm mx-auto dark:text-slate-400">
+                  We couldn't find any products for this category right now. Try looking for something else.
+                </p>
+                <button 
+                  onClick={() => navigate('/')} 
+                  className="mt-6 px-6 py-2.5 bg-primary text-white font-bold rounded-lg hover:bg-primary/90 transition-colors shadow-sm"
                 >
-                  
-                  {/* Bestseller Badge */}
-                  {product.rating >= 4.5 && product.reviews > 1000 && (
-                    <div className="absolute top-0 left-0 bg-teal-500 text-white text-[9px] md:text-[10px] font-bold px-1.5 py-0.5 z-20">
-                      BESTSELLER
-                    </div>
-                  )}
-
-                  {/* Wishlist Heart */}
+                  Continue Shopping
+                </button>
+              </div>
+            ) : (
+              <InfiniteScroll
+                dataLength={items.length}
+                next={fetchMoreData}
+                hasMore={items.length < allFiltered.length}
+                loader={
+                  <div className="flex justify-center py-6 col-span-full">
+                    <div className="w-8 h-8 border-4 border-primary border-t-transparent rounded-full animate-spin"></div>
+                  </div>
+                }
+                className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-1 md:gap-5"
+              >
+                {items.map((product, idx) => (
                   <div 
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      dispatch({ type: 'wishlist/toggleWishlist', payload: product });
-                    }}
-                    className="absolute top-2 right-2 md:top-3 md:right-3 z-10 w-7 h-7 md:w-8 md:h-8 bg-white/80 backdrop-blur-sm rounded-full flex items-center justify-center hover:scale-110 transition-all shadow-sm border border-slate-100 dark:border-slate-800"
+                    key={idx} 
+                    onClick={() => navigate(`/product/${product.id}`)}
+                    className="bg-white md:rounded-2xl shadow-[0_1px_2px_rgba(0,0,0,0.05)] md:shadow-sm border-r border-b md:border border-slate-100 md:hover:shadow-xl md:hover:border-primary/30 transition-all duration-300 group relative flex flex-col cursor-pointer dark:bg-slate-900 dark:border-slate-800"
                   >
-                    <Heart className={`w-4 h-4 transition-colors ${isWishlisted(product.id) ? 'text-red-500 fill-red-500' : 'text-slate-400 hover:text-red-500'}`} />
+                    
+                    {/* Bestseller Badge */}
+                    {product.rating >= 4.5 && product.reviews > 1000 && (
+                      <div className="absolute top-0 left-0 bg-teal-500 text-white text-[9px] md:text-[10px] font-bold px-1.5 py-0.5 z-20">
+                        BESTSELLER
+                      </div>
+                    )}
+
+                    {/* Wishlist Heart */}
+                    <div 
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        dispatch({ type: 'wishlist/toggleWishlist', payload: product });
+                      }}
+                      className="absolute top-2 right-2 md:top-3 md:right-3 z-10 w-7 h-7 md:w-8 md:h-8 bg-white/80 backdrop-blur-sm rounded-full flex items-center justify-center hover:scale-110 transition-all shadow-sm border border-slate-100 dark:border-slate-800"
+                    >
+                      <Heart className={`w-4 h-4 transition-colors ${isWishlisted(product.id) ? 'text-red-500 fill-red-500' : 'text-slate-400 hover:text-red-500'}`} />
+                    </div>
+                    
+                    {/* Image Area */}
+                    <div className="h-44 md:h-56 p-4 flex items-center justify-center relative group-hover:bg-indigo-50/10 transition-colors">
+                      <img src={product.images[0]} alt={product.title} className="w-full h-full object-cover mix-blend-multiply dark:mix-blend-normal" />
+                      {/* Variants Badge */}
+                      <div className="absolute bottom-2 right-2 bg-white border border-slate-200 text-primary text-[10px] font-bold px-2 py-1 rounded-full shadow-sm dark:bg-slate-900 dark:border-slate-700">
+                        2 variants
+                      </div>
+                    </div>
+                    
+                    {/* Content Area */}
+                    <div className="p-3 md:p-4 flex flex-col flex-grow">
+                      <h2 className="text-[13px] md:text-sm font-medium text-slate-800 line-clamp-2 mb-2 group-hover:text-primary transition-colors leading-tight dark:text-slate-100">
+                        {product.title}
+                      </h2>
+                      
+                      <div className="flex items-center gap-1.5 mb-2 flex-wrap">
+                        <span className="bg-emerald-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded flex items-center gap-0.5">
+                          {product.rating} <Star className="w-2.5 h-2.5 fill-white" />
+                        </span>
+                        <span className="text-slate-400 text-[10px] md:text-xs font-medium">({product.reviews})</span>
+                        <span className="text-primary font-bold text-[10px] bg-blue-50 px-1 rounded">Z-Assured</span>
+                      </div>
+                      
+                      <div className="flex items-center gap-1.5 md:gap-2 mb-1">
+                        <span className="text-base md:text-lg font-black text-slate-900 dark:text-white">₹{product.price}</span>
+                        <span className="text-[10px] md:text-xs text-slate-400 line-through font-medium">₹{product.originalPrice}</span>
+                        <span className="text-[10px] md:text-xs font-bold text-emerald-600">{product.discount}% off</span>
+                      </div>
+                      
+                      <div className="text-[10px] font-medium text-slate-600 mb-3 flex items-center gap-1 dark:text-slate-300">
+                        <span className="font-black text-indigo-700 italic border border-indigo-200 px-1 rounded-sm bg-indigo-50">WOW!</span>
+                        ₹78 with 3 offers
+                      </div>
+                      
+                      {/* Add to Cart Button */}
+                      <div className="mt-auto pt-2">
+                        <button 
+                          onClick={(e) => handleAddToCart(product, e)}
+                          className="w-full py-2 bg-white border border-slate-200 text-primary font-bold rounded-lg hover:border-primary transition-colors text-xs md:text-sm shadow-sm dark:bg-slate-900 dark:border-slate-700"
+                        >
+                          Add to Cart
+                        </button>
+                      </div>
+                    </div>
                   </div>
-                  
-                  {/* Image Area */}
-                  <div className="h-44 md:h-56 p-4 flex items-center justify-center relative group-hover:bg-indigo-50/10 transition-colors">
-                    <img src={product.images[0]} alt={product.title} className="w-full h-full object-cover mix-blend-multiply dark:mix-blend-normal" />
-                    {/* Variants Badge */}
-                    <div className="absolute bottom-2 right-2 bg-white border border-slate-200 text-primary text-[10px] font-bold px-2 py-1 rounded-full shadow-sm dark:bg-slate-900 dark:border-slate-700">
-                      2 variants
-                    </div>
-                  </div>
-                  
-                  {/* Content Area */}
-                  <div className="p-3 md:p-4 flex flex-col flex-grow">
-                    <h2 className="text-[13px] md:text-sm font-medium text-slate-800 line-clamp-2 mb-2 group-hover:text-primary transition-colors leading-tight dark:text-slate-100">
-                      {product.title}
-                    </h2>
-                    
-                    <div className="flex items-center gap-1.5 mb-2 flex-wrap">
-                      <span className="bg-emerald-600 text-white text-[10px] font-bold px-1.5 py-0.5 rounded flex items-center gap-0.5">
-                        {product.rating} <Star className="w-2.5 h-2.5 fill-white" />
-                      </span>
-                      <span className="text-slate-400 text-[10px] md:text-xs font-medium">({product.reviews})</span>
-                      <span className="text-primary font-bold text-[10px] bg-blue-50 px-1 rounded">Z-Assured</span>
-                    </div>
-                    
-                    <div className="flex items-center gap-1.5 md:gap-2 mb-1">
-                      <span className="text-base md:text-lg font-black text-slate-900 dark:text-white">₹{product.price}</span>
-                      <span className="text-[10px] md:text-xs text-slate-400 line-through font-medium">₹{product.originalPrice}</span>
-                      <span className="text-[10px] md:text-xs font-bold text-emerald-600">{product.discount}% off</span>
-                    </div>
-                    
-                    <div className="text-[10px] font-medium text-slate-600 mb-3 flex items-center gap-1 dark:text-slate-300">
-                      <span className="font-black text-indigo-700 italic border border-indigo-200 px-1 rounded-sm bg-indigo-50">WOW!</span>
-                      ₹78 with 3 offers
-                    </div>
-                    
-                    {/* Add to Cart Button */}
-                    <div className="mt-auto pt-2">
-                      <button 
-                        onClick={(e) => handleAddToCart(product, e)}
-                        className="w-full py-2 bg-white border border-slate-200 text-primary font-bold rounded-lg hover:border-primary transition-colors text-xs md:text-sm shadow-sm dark:bg-slate-900 dark:border-slate-700"
-                      >
-                        Add to Cart
-                      </button>
-                    </div>
-                  </div>
-                </div>
-              ))}
-            </InfiniteScroll>
+                ))}
+              </InfiniteScroll>
+            )}
           </div>
         </div>
       </div>

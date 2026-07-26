@@ -102,7 +102,7 @@ const Navbar = () => {
               onChange={(e) => setSearchQuery(e.target.value)}
               onKeyDown={handleSearch}
               onFocus={() => searchQuery.length > 1 && setShowSuggestions(true)}
-              className="block w-full pl-12 pr-4 py-2.5 bg-slate-100 border border-transparent rounded-lg text-sm focus:bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none dark:bg-slate-800 dark:text-white"
+              className="block w-full pl-12 pr-4 py-2.5 bg-slate-100 border border-transparent rounded-lg text-sm focus:bg-white focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none dark:bg-slate-800 dark:text-white dark:focus:bg-slate-900"
               placeholder="Search for premium products, brands and more (Press Enter)..."
             />
           </div>
@@ -114,7 +114,7 @@ const Navbar = () => {
                  <div className="p-2 border-b border-slate-100 dark:border-slate-800">
                     <div className="text-xs font-bold text-slate-400 mb-1 px-2 uppercase">Categories</div>
                     {suggestions.categories.map((cat, idx) => (
-                      <div key={idx} onClick={() => handleSuggestionClick(cat, true)} className="flex items-center gap-2 px-2 py-1.5 hover:bg-slate-50 cursor-pointer rounded">
+                      <div key={idx} onClick={() => handleSuggestionClick(cat, true)} className="flex items-center gap-2 px-2 py-1.5 hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer rounded">
                          <Search className="w-3.5 h-3.5 text-slate-400" />
                          <span className="text-sm font-medium text-slate-700 dark:text-slate-200">{cat}</span>
                       </div>
@@ -125,7 +125,7 @@ const Navbar = () => {
                  <div className="p-2">
                     <div className="text-xs font-bold text-slate-400 mb-1 px-2 uppercase">Products</div>
                     {suggestions.products.map((prod) => (
-                      <div key={prod.id} onClick={() => handleSuggestionClick(prod.title, false)} className="flex items-center gap-3 px-2 py-1.5 hover:bg-slate-50 cursor-pointer rounded">
+                      <div key={prod.id} onClick={() => handleSuggestionClick(prod.title, false)} className="flex items-center gap-3 px-2 py-1.5 hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer rounded">
                          <img src={prod.images[0]} className="w-8 h-8 rounded object-cover" alt="" />
                          <span className="text-sm font-medium text-slate-700 line-clamp-1 dark:text-slate-200">{prod.title}</span>
                       </div>
@@ -144,7 +144,7 @@ const Navbar = () => {
               {/* Profile Trigger Button */}
               <button
                 onClick={() => setShowProfileDropdown((v) => !v)}
-                className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-slate-100 transition-colors cursor-pointer border border-transparent hover:border-slate-200"
+                className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors cursor-pointer border border-transparent hover:border-slate-200 dark:hover:border-slate-700"
               >
                 <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
                   <span className="text-white font-black text-sm">{user.name[0].toUpperCase()}</span>
@@ -264,7 +264,7 @@ const Navbar = () => {
               onChange={(e) => setSearchQuery(e.target.value)}
               onKeyDown={handleSearch}
               onFocus={() => searchQuery.length > 1 && setShowSuggestions(true)}
-              className="block w-full pl-9 pr-14 py-2 bg-white border border-slate-300 rounded-lg text-[13px] focus:outline-none focus:border-primary shadow-sm dark:bg-slate-900 dark:border-slate-600 dark:text-white"
+              className="block w-full pl-9 pr-14 py-2 bg-white border border-slate-300 rounded-lg text-[13px] focus:outline-none focus:border-primary shadow-sm dark:bg-slate-900 dark:border-slate-600 dark:text-white dark:focus:bg-slate-800"
               placeholder="Search mobiles, fashion..."
             />
             <div className="absolute inset-y-0 right-0 pr-3 flex items-center gap-2.5">
@@ -279,7 +279,7 @@ const Navbar = () => {
                    <div className="p-2 border-b border-slate-100 dark:border-slate-800">
                       <div className="text-[10px] font-bold text-slate-400 mb-1 px-2 uppercase">Categories</div>
                       {suggestions.categories.map((cat, idx) => (
-                        <div key={idx} onClick={() => handleSuggestionClick(cat, true)} className="flex items-center gap-2 px-2 py-1.5 hover:bg-slate-50 cursor-pointer rounded">
+                        <div key={idx} onClick={() => handleSuggestionClick(cat, true)} className="flex items-center gap-2 px-2 py-1.5 hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer rounded">
                            <Search className="w-3 h-3 text-slate-400" />
                            <span className="text-[13px] font-medium text-slate-700 dark:text-slate-200">{cat}</span>
                         </div>
@@ -290,7 +290,7 @@ const Navbar = () => {
                    <div className="p-2">
                       <div className="text-[10px] font-bold text-slate-400 mb-1 px-2 uppercase">Products</div>
                       {suggestions.products.map((prod) => (
-                        <div key={prod.id} onClick={() => handleSuggestionClick(prod.title, false)} className="flex items-center gap-2 px-2 py-1.5 hover:bg-slate-50 cursor-pointer rounded">
+                        <div key={prod.id} onClick={() => handleSuggestionClick(prod.title, false)} className="flex items-center gap-2 px-2 py-1.5 hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer rounded">
                            <img src={prod.images[0]} className="w-6 h-6 rounded object-cover" alt="" />
                            <span className="text-[13px] font-medium text-slate-700 line-clamp-1 dark:text-slate-200">{prod.title}</span>
                         </div>
