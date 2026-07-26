@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "p1",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 166272,
+    "discount": 28,
+    "rating": 4.5,
+    "reviews": 1480,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p2",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 166248,
+    "discount": 33,
+    "rating": 4.7,
+    "reviews": 4835,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p3",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 72388,
+    "discount": 27,
+    "rating": 4.1,
+    "reviews": 1619,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p4",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 97598,
+    "discount": 22,
+    "rating": 4.6,
+    "reviews": 4366,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p5",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 237881,
+    "discount": 19,
+    "rating": 4.3,
+    "reviews": 4184,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p6",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 32389,
+    "discount": 8,
+    "rating": 4.1,
+    "reviews": 3103,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p7",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 186867,
+    "discount": 28,
+    "rating": 4.4,
+    "reviews": 3195,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p8",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 32370,
+    "discount": 30,
+    "rating": 4.5,
+    "reviews": 3468,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p9",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 4026,
+    "discount": 22,
+    "rating": 4.7,
+    "reviews": 4410,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p10",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1298,
+    "discount": 30,
+    "rating": 4.2,
+    "reviews": 3262,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p11",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 362,
+    "discount": 5,
+    "rating": 4.8,
+    "reviews": 3079,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p12",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 438,
+    "discount": 10,
+    "rating": 4.5,
+    "reviews": 1104,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p13",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 235,
+    "discount": 7,
+    "rating": 4.1,
+    "reviews": 3447,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p14",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 33,
+    "discount": 21,
+    "rating": 4.6,
+    "reviews": 4897,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p15",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 189,
+    "discount": 13,
+    "rating": 4.5,
+    "reviews": 963,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p16",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 648,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 2351,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p17",
+    "title": "IKEA KIVIK 3-Seat Sofa",
+    "category": "Home & Furniture",
+    "price": 35000,
+    "originalPrice": 37100,
+    "discount": 6,
+    "rating": 4,
+    "reviews": 3276,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+    ],
+    "description": "Experience the best with IKEA KIVIK 3-Seat Sofa. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p18",
+    "title": "Wakefit Memory Foam Mattress",
+    "category": "Home & Furniture",
+    "price": 12499,
+    "originalPrice": 13998,
+    "discount": 12,
+    "rating": 4.7,
+    "reviews": 3500,
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400"
+    ],
+    "description": "Experience the best with Wakefit Memory Foam Mattress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p19",
+    "title": "Godrej Slimline Wardrobe",
+    "category": "Home & Furniture",
+    "price": 22000,
+    "originalPrice": 26180,
+    "discount": 19,
+    "rating": 4.1,
+    "reviews": 4626,
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400",
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400"
+    ],
+    "description": "Experience the best with Godrej Slimline Wardrobe. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p20",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 2599,
+    "originalPrice": 3118,
+    "discount": 20,
+    "rating": 4.4,
+    "reviews": 4680,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400",
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400"
+    ],
+    "description": "Experience the best with Levi's Men's 511 Slim Fit Jeans. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p21",
+    "title": "Nike Air Force 1 '07",
+    "category": "Fashion",
+    "price": 7495,
+    "originalPrice": 8919,
+    "discount": 19,
+    "rating": 4.1,
+    "reviews": 148,
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400",
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400"
+    ],
+    "description": "Experience the best with Nike Air Force 1 '07. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p22",
+    "title": "Puma Men's Solid T-Shirt",
+    "category": "Fashion",
+    "price": 999,
+    "originalPrice": 1078,
+    "discount": 8,
+    "rating": 4.1,
+    "reviews": 4809,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    ],
+    "description": "Experience the best with Puma Men's Solid T-Shirt. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p23",
+    "title": "Zara Floral Print Midi Dress",
+    "category": "Fashion",
+    "price": 2990,
+    "originalPrice": 3617,
+    "discount": 21,
+    "rating": 4.9,
+    "reviews": 2349,
+    "images": [
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400",
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400"
+    ],
+    "description": "Experience the best with Zara Floral Print Midi Dress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p24",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 164973,
+    "discount": 27,
+    "rating": 4.7,
+    "reviews": 4571,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p25",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 138748,
+    "discount": 11,
+    "rating": 4.3,
+    "reviews": 970,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p26",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 71248,
+    "discount": 25,
+    "rating": 4.7,
+    "reviews": 1105,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p27",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 103998,
+    "discount": 30,
+    "rating": 4.5,
+    "reviews": 2093,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p28",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 241879,
+    "discount": 21,
+    "rating": 4.2,
+    "reviews": 372,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p29",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 39886,
+    "discount": 33,
+    "rating": 4.3,
+    "reviews": 4423,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p30",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 176647,
+    "discount": 21,
+    "rating": 4.7,
+    "reviews": 788,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p31",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 28634,
+    "discount": 15,
+    "rating": 4.3,
+    "reviews": 2112,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p32",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 3465,
+    "discount": 5,
+    "rating": 4.8,
+    "reviews": 3191,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p33",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1178,
+    "discount": 18,
+    "rating": 4.7,
+    "reviews": 581,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p34",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 445,
+    "discount": 29,
+    "rating": 4.1,
+    "reviews": 1012,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p35",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 522,
+    "discount": 31,
+    "rating": 4.2,
+    "reviews": 991,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p36",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 286,
+    "discount": 30,
+    "rating": 4.5,
+    "reviews": 765,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p37",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 31,
+    "discount": 14,
+    "rating": 4.8,
+    "reviews": 4931,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p38",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 193,
+    "discount": 15,
+    "rating": 4.2,
+    "reviews": 4172,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p39",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 664,
+    "discount": 23,
+    "rating": 4,
+    "reviews": 1255,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p40",
+    "title": "IKEA KIVIK 3-Seat Sofa",
+    "category": "Home & Furniture",
+    "price": 35000,
+    "originalPrice": 46200,
+    "discount": 32,
+    "rating": 4.3,
+    "reviews": 1389,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+    ],
+    "description": "Experience the best with IKEA KIVIK 3-Seat Sofa. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p41",
+    "title": "Wakefit Memory Foam Mattress",
+    "category": "Home & Furniture",
+    "price": 12499,
+    "originalPrice": 14873,
+    "discount": 19,
+    "rating": 4.7,
+    "reviews": 3540,
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400"
+    ],
+    "description": "Experience the best with Wakefit Memory Foam Mattress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p42",
+    "title": "Godrej Slimline Wardrobe",
+    "category": "Home & Furniture",
+    "price": 22000,
+    "originalPrice": 28820,
+    "discount": 31,
+    "rating": 4.1,
+    "reviews": 4349,
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400",
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400"
+    ],
+    "description": "Experience the best with Godrej Slimline Wardrobe. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p43",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 2599,
+    "originalPrice": 3092,
+    "discount": 19,
+    "rating": 4.6,
+    "reviews": 1523,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400",
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400"
+    ],
+    "description": "Experience the best with Levi's Men's 511 Slim Fit Jeans. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p44",
+    "title": "Nike Air Force 1 '07",
+    "category": "Fashion",
+    "price": 7495,
+    "originalPrice": 8469,
+    "discount": 13,
+    "rating": 4.8,
+    "reviews": 4675,
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400",
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400"
+    ],
+    "description": "Experience the best with Nike Air Force 1 '07. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p45",
+    "title": "Puma Men's Solid T-Shirt",
+    "category": "Fashion",
+    "price": 999,
+    "originalPrice": 1278,
+    "discount": 28,
+    "rating": 4.5,
+    "reviews": 154,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    ],
+    "description": "Experience the best with Puma Men's Solid T-Shirt. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p46",
+    "title": "Zara Floral Print Midi Dress",
+    "category": "Fashion",
+    "price": 2990,
+    "originalPrice": 3946,
+    "discount": 32,
+    "rating": 4.2,
+    "reviews": 2263,
+    "images": [
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400",
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400"
+    ],
+    "description": "Experience the best with Zara Floral Print Midi Dress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p47",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 157179,
+    "discount": 21,
+    "rating": 4.7,
+    "reviews": 2938,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p48",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 157498,
+    "discount": 26,
+    "rating": 4.6,
+    "reviews": 784,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p49",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 71248,
+    "discount": 25,
+    "rating": 4.3,
+    "reviews": 1052,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p50",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 84798,
+    "discount": 6,
+    "rating": 4.3,
+    "reviews": 1620,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p51",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 247876,
+    "discount": 24,
+    "rating": 4.9,
+    "reviews": 1102,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p52",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 34788,
+    "discount": 16,
+    "rating": 4.4,
+    "reviews": 4733,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p53",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 185407,
+    "discount": 27,
+    "rating": 4.4,
+    "reviews": 1111,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p54",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 31125,
+    "discount": 25,
+    "rating": 4.6,
+    "reviews": 3240,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p55",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 4059,
+    "discount": 23,
+    "rating": 4.1,
+    "reviews": 1303,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p56",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1228,
+    "discount": 23,
+    "rating": 4.3,
+    "reviews": 3692,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p57",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 376,
+    "discount": 9,
+    "rating": 4.3,
+    "reviews": 4026,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p58",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 450,
+    "discount": 13,
+    "rating": 4.2,
+    "reviews": 3566,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p59",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 292,
+    "discount": 33,
+    "rating": 4.8,
+    "reviews": 2037,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p60",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 34,
+    "discount": 23,
+    "rating": 4.5,
+    "reviews": 4407,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p61",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 221,
+    "discount": 32,
+    "rating": 4.1,
+    "reviews": 1753,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p62",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 626,
+    "discount": 16,
+    "rating": 4.5,
+    "reviews": 2231,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p63",
+    "title": "IKEA KIVIK 3-Seat Sofa",
+    "category": "Home & Furniture",
+    "price": 35000,
+    "originalPrice": 37450,
+    "discount": 7,
+    "rating": 4.4,
+    "reviews": 784,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+    ],
+    "description": "Experience the best with IKEA KIVIK 3-Seat Sofa. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p64",
+    "title": "Wakefit Memory Foam Mattress",
+    "category": "Home & Furniture",
+    "price": 12499,
+    "originalPrice": 15748,
+    "discount": 26,
+    "rating": 4.9,
+    "reviews": 4725,
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400"
+    ],
+    "description": "Experience the best with Wakefit Memory Foam Mattress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p65",
+    "title": "Godrej Slimline Wardrobe",
+    "category": "Home & Furniture",
+    "price": 22000,
+    "originalPrice": 23980,
+    "discount": 9,
+    "rating": 4.8,
+    "reviews": 3057,
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400",
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400"
+    ],
+    "description": "Experience the best with Godrej Slimline Wardrobe. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p66",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 2599,
+    "originalPrice": 3274,
+    "discount": 26,
+    "rating": 4.8,
+    "reviews": 3927,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400",
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400"
+    ],
+    "description": "Experience the best with Levi's Men's 511 Slim Fit Jeans. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p67",
+    "title": "Nike Air Force 1 '07",
+    "category": "Fashion",
+    "price": 7495,
+    "originalPrice": 8919,
+    "discount": 19,
+    "rating": 4.1,
+    "reviews": 456,
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400",
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400"
+    ],
+    "description": "Experience the best with Nike Air Force 1 '07. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p68",
+    "title": "Puma Men's Solid T-Shirt",
+    "category": "Fashion",
+    "price": 999,
+    "originalPrice": 1098,
+    "discount": 10,
+    "rating": 4.3,
+    "reviews": 4346,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    ],
+    "description": "Experience the best with Puma Men's Solid T-Shirt. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p69",
+    "title": "Zara Floral Print Midi Dress",
+    "category": "Fashion",
+    "price": 2990,
+    "originalPrice": 3647,
+    "discount": 22,
+    "rating": 4.8,
+    "reviews": 2966,
+    "images": [
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400",
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400"
+    ],
+    "description": "Experience the best with Zara Floral Print Midi Dress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p70",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 163674,
+    "discount": 26,
+    "rating": 4.7,
+    "reviews": 789,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p71",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 164998,
+    "discount": 32,
+    "rating": 4.8,
+    "reviews": 2375,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p72",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 71248,
+    "discount": 25,
+    "rating": 4.4,
+    "reviews": 4528,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p73",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 91998,
+    "discount": 15,
+    "rating": 4,
+    "reviews": 3965,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p74",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 241879,
+    "discount": 21,
+    "rating": 4.2,
+    "reviews": 2345,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p75",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 40186,
+    "discount": 34,
+    "rating": 4.3,
+    "reviews": 407,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p76",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 163508,
+    "discount": 12,
+    "rating": 4.5,
+    "reviews": 4721,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p77",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 29382,
+    "discount": 18,
+    "rating": 4,
+    "reviews": 575,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p78",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 3860,
+    "discount": 17,
+    "rating": 4.8,
+    "reviews": 2798,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p79",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1288,
+    "discount": 29,
+    "rating": 4.8,
+    "reviews": 4828,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p80",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 389,
+    "discount": 13,
+    "rating": 4.1,
+    "reviews": 2938,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p81",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 466,
+    "discount": 17,
+    "rating": 4.4,
+    "reviews": 2988,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p82",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 231,
+    "discount": 5,
+    "rating": 4.3,
+    "reviews": 1460,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p83",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 36,
+    "discount": 32,
+    "rating": 4.1,
+    "reviews": 2923,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p84",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 188,
+    "discount": 12,
+    "rating": 4.5,
+    "reviews": 890,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p85",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 696,
+    "discount": 29,
+    "rating": 4.5,
+    "reviews": 2288,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p86",
+    "title": "IKEA KIVIK 3-Seat Sofa",
+    "category": "Home & Furniture",
+    "price": 35000,
+    "originalPrice": 37800,
+    "discount": 8,
+    "rating": 4.8,
+    "reviews": 1766,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+    ],
+    "description": "Experience the best with IKEA KIVIK 3-Seat Sofa. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p87",
+    "title": "Wakefit Memory Foam Mattress",
+    "category": "Home & Furniture",
+    "price": 12499,
+    "originalPrice": 14748,
+    "discount": 18,
+    "rating": 4.1,
+    "reviews": 3127,
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400"
+    ],
+    "description": "Experience the best with Wakefit Memory Foam Mattress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p88",
+    "title": "Godrej Slimline Wardrobe",
+    "category": "Home & Furniture",
+    "price": 22000,
+    "originalPrice": 28820,
+    "discount": 31,
+    "rating": 4.4,
+    "reviews": 1397,
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400",
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400"
+    ],
+    "description": "Experience the best with Godrej Slimline Wardrobe. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p89",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 2599,
+    "originalPrice": 3456,
+    "discount": 33,
+    "rating": 4.2,
+    "reviews": 154,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400",
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400"
+    ],
+    "description": "Experience the best with Levi's Men's 511 Slim Fit Jeans. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p90",
+    "title": "Nike Air Force 1 '07",
+    "category": "Fashion",
+    "price": 7495,
+    "originalPrice": 9143,
+    "discount": 22,
+    "rating": 4.8,
+    "reviews": 2768,
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400",
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400"
+    ],
+    "description": "Experience the best with Nike Air Force 1 '07. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p91",
+    "title": "Puma Men's Solid T-Shirt",
+    "category": "Fashion",
+    "price": 999,
+    "originalPrice": 1188,
+    "discount": 19,
+    "rating": 4.2,
+    "reviews": 4973,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    ],
+    "description": "Experience the best with Puma Men's Solid T-Shirt. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p92",
+    "title": "Zara Floral Print Midi Dress",
+    "category": "Fashion",
+    "price": 2990,
+    "originalPrice": 3797,
+    "discount": 27,
+    "rating": 4.4,
+    "reviews": 774,
+    "images": [
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400",
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400"
+    ],
+    "description": "Experience the best with Zara Floral Print Midi Dress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p93",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 153282,
+    "discount": 18,
+    "rating": 4.5,
+    "reviews": 1390,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p94",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 132498,
+    "discount": 6,
+    "rating": 4.1,
+    "reviews": 2765,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p95",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 75238,
+    "discount": 32,
+    "rating": 4.6,
+    "reviews": 3361,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p96",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 87198,
+    "discount": 9,
+    "rating": 4.8,
+    "reviews": 696,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p97",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 217891,
+    "discount": 9,
+    "rating": 4.4,
+    "reviews": 296,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p98",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 35388,
+    "discount": 18,
+    "rating": 4,
+    "reviews": 4687,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p99",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 164968,
+    "discount": 13,
+    "rating": 4.6,
+    "reviews": 4004,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p100",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 32121,
+    "discount": 29,
+    "rating": 4.2,
+    "reviews": 3083,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p101",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 3597,
+    "discount": 9,
+    "rating": 4.2,
+    "reviews": 2714,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p102",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1318,
+    "discount": 32,
+    "rating": 4.3,
+    "reviews": 2698,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p103",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 414,
+    "discount": 20,
+    "rating": 4.1,
+    "reviews": 4759,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p104",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 522,
+    "discount": 31,
+    "rating": 4.2,
+    "reviews": 3907,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p105",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 237,
+    "discount": 8,
+    "rating": 4.5,
+    "reviews": 3892,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p106",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 35,
+    "discount": 27,
+    "rating": 4.2,
+    "reviews": 4023,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p107",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 223,
+    "discount": 33,
+    "rating": 4,
+    "reviews": 4960,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p108",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 696,
+    "discount": 29,
+    "rating": 4.8,
+    "reviews": 3814,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p109",
+    "title": "IKEA KIVIK 3-Seat Sofa",
+    "category": "Home & Furniture",
+    "price": 35000,
+    "originalPrice": 41300,
+    "discount": 18,
+    "rating": 4.1,
+    "reviews": 3406,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+    ],
+    "description": "Experience the best with IKEA KIVIK 3-Seat Sofa. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p110",
+    "title": "Wakefit Memory Foam Mattress",
+    "category": "Home & Furniture",
+    "price": 12499,
+    "originalPrice": 14123,
+    "discount": 13,
+    "rating": 4.7,
+    "reviews": 4376,
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400"
+    ],
+    "description": "Experience the best with Wakefit Memory Foam Mattress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p111",
+    "title": "Godrej Slimline Wardrobe",
+    "category": "Home & Furniture",
+    "price": 22000,
+    "originalPrice": 24420,
+    "discount": 11,
+    "rating": 4.8,
+    "reviews": 4257,
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400",
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400"
+    ],
+    "description": "Experience the best with Godrej Slimline Wardrobe. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p112",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 2599,
+    "originalPrice": 3352,
+    "discount": 29,
+    "rating": 4.7,
+    "reviews": 1011,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400",
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400"
+    ],
+    "description": "Experience the best with Levi's Men's 511 Slim Fit Jeans. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p113",
+    "title": "Nike Air Force 1 '07",
+    "category": "Fashion",
+    "price": 7495,
+    "originalPrice": 8919,
+    "discount": 19,
+    "rating": 4.4,
+    "reviews": 4966,
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400",
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400"
+    ],
+    "description": "Experience the best with Nike Air Force 1 '07. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p114",
+    "title": "Puma Men's Solid T-Shirt",
+    "category": "Fashion",
+    "price": 999,
+    "originalPrice": 1318,
+    "discount": 32,
+    "rating": 4.5,
+    "reviews": 2931,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    ],
+    "description": "Experience the best with Puma Men's Solid T-Shirt. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p115",
+    "title": "Zara Floral Print Midi Dress",
+    "category": "Fashion",
+    "price": 2990,
+    "originalPrice": 3468,
+    "discount": 16,
+    "rating": 4.7,
+    "reviews": 1423,
+    "images": [
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400",
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400"
+    ],
+    "description": "Experience the best with Zara Floral Print Midi Dress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p116",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 159777,
+    "discount": 23,
+    "rating": 4.8,
+    "reviews": 1461,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p117",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 148748,
+    "discount": 19,
+    "rating": 4.2,
+    "reviews": 942,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p118",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 63268,
+    "discount": 11,
+    "rating": 4.4,
+    "reviews": 5012,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p119",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 105598,
+    "discount": 32,
+    "rating": 4.4,
+    "reviews": 4727,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p120",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 253873,
+    "discount": 27,
+    "rating": 4.2,
+    "reviews": 1421,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p121",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 34488,
+    "discount": 15,
+    "rating": 4.4,
+    "reviews": 2081,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p122",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 181027,
+    "discount": 24,
+    "rating": 4.2,
+    "reviews": 939,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p123",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 28883,
+    "discount": 16,
+    "rating": 4.8,
+    "reviews": 4157,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p124",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 4323,
+    "discount": 31,
+    "rating": 4.5,
+    "reviews": 4731,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p125",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1128,
+    "discount": 13,
+    "rating": 4.4,
+    "reviews": 3793,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p126",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 393,
+    "discount": 14,
+    "rating": 4.9,
+    "reviews": 1738,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p127",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 506,
+    "discount": 27,
+    "rating": 4.7,
+    "reviews": 3466,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p128",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 279,
+    "discount": 27,
+    "rating": 4.3,
+    "reviews": 1228,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p129",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 36,
+    "discount": 29,
+    "rating": 4.8,
+    "reviews": 231,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p130",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 213,
+    "discount": 27,
+    "rating": 4.5,
+    "reviews": 1539,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p131",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 631,
+    "discount": 17,
+    "rating": 4.7,
+    "reviews": 310,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p132",
+    "title": "IKEA KIVIK 3-Seat Sofa",
+    "category": "Home & Furniture",
+    "price": 35000,
+    "originalPrice": 36750,
+    "discount": 5,
+    "rating": 4.7,
+    "reviews": 4006,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+    ],
+    "description": "Experience the best with IKEA KIVIK 3-Seat Sofa. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p133",
+    "title": "Wakefit Memory Foam Mattress",
+    "category": "Home & Furniture",
+    "price": 12499,
+    "originalPrice": 16623,
+    "discount": 33,
+    "rating": 4.2,
+    "reviews": 194,
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400"
+    ],
+    "description": "Experience the best with Wakefit Memory Foam Mattress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p134",
+    "title": "Godrej Slimline Wardrobe",
+    "category": "Home & Furniture",
+    "price": 22000,
+    "originalPrice": 28160,
+    "discount": 28,
+    "rating": 4.2,
+    "reviews": 3877,
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400",
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400"
+    ],
+    "description": "Experience the best with Godrej Slimline Wardrobe. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p135",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 2599,
+    "originalPrice": 3118,
+    "discount": 20,
+    "rating": 4.3,
+    "reviews": 841,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400",
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400"
+    ],
+    "description": "Experience the best with Levi's Men's 511 Slim Fit Jeans. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p136",
+    "title": "Nike Air Force 1 '07",
+    "category": "Fashion",
+    "price": 7495,
+    "originalPrice": 8844,
+    "discount": 18,
+    "rating": 4,
+    "reviews": 157,
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400",
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400"
+    ],
+    "description": "Experience the best with Nike Air Force 1 '07. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p137",
+    "title": "Puma Men's Solid T-Shirt",
+    "category": "Fashion",
+    "price": 999,
+    "originalPrice": 1158,
+    "discount": 16,
+    "rating": 4.6,
+    "reviews": 3599,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    ],
+    "description": "Experience the best with Puma Men's Solid T-Shirt. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p138",
+    "title": "Zara Floral Print Midi Dress",
+    "category": "Fashion",
+    "price": 2990,
+    "originalPrice": 3199,
+    "discount": 7,
+    "rating": 4.3,
+    "reviews": 2315,
+    "images": [
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400",
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400"
+    ],
+    "description": "Experience the best with Zara Floral Print Midi Dress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p139",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 154581,
+    "discount": 19,
+    "rating": 4.3,
+    "reviews": 1505,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p140",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 153748,
+    "discount": 23,
+    "rating": 4.1,
+    "reviews": 3237,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p141",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 70108,
+    "discount": 23,
+    "rating": 4.5,
+    "reviews": 3282,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p142",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 103998,
+    "discount": 30,
+    "rating": 4.6,
+    "reviews": 4639,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p143",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 217891,
+    "discount": 9,
+    "rating": 4.9,
+    "reviews": 3663,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p144",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 32089,
+    "discount": 7,
+    "rating": 4.8,
+    "reviews": 2504,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p145",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 181027,
+    "discount": 24,
+    "rating": 4.8,
+    "reviews": 3862,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p146",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 31623,
+    "discount": 27,
+    "rating": 4.6,
+    "reviews": 1492,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p147",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 4092,
+    "discount": 24,
+    "rating": 4.7,
+    "reviews": 1580,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p148",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1308,
+    "discount": 31,
+    "rating": 4.9,
+    "reviews": 301,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p149",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 382,
+    "discount": 11,
+    "rating": 4.7,
+    "reviews": 1900,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p150",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 426,
+    "discount": 7,
+    "rating": 4,
+    "reviews": 2659,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p151",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 261,
+    "discount": 19,
+    "rating": 4.3,
+    "reviews": 2206,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p152",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 33,
+    "discount": 19,
+    "rating": 4.1,
+    "reviews": 4502,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p153",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 208,
+    "discount": 24,
+    "rating": 4.5,
+    "reviews": 4713,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p154",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 599,
+    "discount": 11,
+    "rating": 4.4,
+    "reviews": 1642,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p155",
+    "title": "IKEA KIVIK 3-Seat Sofa",
+    "category": "Home & Furniture",
+    "price": 35000,
+    "originalPrice": 42700,
+    "discount": 22,
+    "rating": 4.1,
+    "reviews": 3578,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+    ],
+    "description": "Experience the best with IKEA KIVIK 3-Seat Sofa. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p156",
+    "title": "Wakefit Memory Foam Mattress",
+    "category": "Home & Furniture",
+    "price": 12499,
+    "originalPrice": 13748,
+    "discount": 10,
+    "rating": 4.7,
+    "reviews": 4585,
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400"
+    ],
+    "description": "Experience the best with Wakefit Memory Foam Mattress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p157",
+    "title": "Godrej Slimline Wardrobe",
+    "category": "Home & Furniture",
+    "price": 22000,
+    "originalPrice": 23540,
+    "discount": 7,
+    "rating": 4.2,
+    "reviews": 2240,
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400",
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400"
+    ],
+    "description": "Experience the best with Godrej Slimline Wardrobe. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p158",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 2599,
+    "originalPrice": 3300,
+    "discount": 27,
+    "rating": 4.8,
+    "reviews": 201,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400",
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400"
+    ],
+    "description": "Experience the best with Levi's Men's 511 Slim Fit Jeans. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p159",
+    "title": "Nike Air Force 1 '07",
+    "category": "Fashion",
+    "price": 7495,
+    "originalPrice": 8094,
+    "discount": 8,
+    "rating": 4.6,
+    "reviews": 4722,
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400",
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400"
+    ],
+    "description": "Experience the best with Nike Air Force 1 '07. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p160",
+    "title": "Puma Men's Solid T-Shirt",
+    "category": "Fashion",
+    "price": 999,
+    "originalPrice": 1228,
+    "discount": 23,
+    "rating": 4.3,
+    "reviews": 2775,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    ],
+    "description": "Experience the best with Puma Men's Solid T-Shirt. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p161",
+    "title": "Zara Floral Print Midi Dress",
+    "category": "Fashion",
+    "price": 2990,
+    "originalPrice": 3438,
+    "discount": 15,
+    "rating": 4.6,
+    "reviews": 4178,
+    "images": [
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400",
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400"
+    ],
+    "description": "Experience the best with Zara Floral Print Midi Dress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p162",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 168870,
+    "discount": 30,
+    "rating": 4.2,
+    "reviews": 4623,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p163",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 147498,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 3273,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p164",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 64978,
+    "discount": 14,
+    "rating": 4.6,
+    "reviews": 3385,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p165",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 104798,
+    "discount": 31,
+    "rating": 4.4,
+    "reviews": 1547,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p166",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 221889,
+    "discount": 11,
+    "rating": 4.3,
+    "reviews": 4962,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p167",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 40186,
+    "discount": 34,
+    "rating": 4.6,
+    "reviews": 4779,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p168",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 189787,
+    "discount": 30,
+    "rating": 4.2,
+    "reviews": 4764,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p169",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 30378,
+    "discount": 22,
+    "rating": 4.9,
+    "reviews": 1383,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p170",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 3993,
+    "discount": 21,
+    "rating": 4.1,
+    "reviews": 1002,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p171",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1228,
+    "discount": 23,
+    "rating": 4.1,
+    "reviews": 3539,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p172",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 396,
+    "discount": 15,
+    "rating": 4.5,
+    "reviews": 2106,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p173",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 490,
+    "discount": 23,
+    "rating": 4.7,
+    "reviews": 117,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p174",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 255,
+    "discount": 16,
+    "rating": 4.3,
+    "reviews": 1804,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p175",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 30,
+    "discount": 10,
+    "rating": 4.6,
+    "reviews": 1185,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p176",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 210,
+    "discount": 25,
+    "rating": 4.8,
+    "reviews": 1008,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p177",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 696,
+    "discount": 29,
+    "rating": 4.4,
+    "reviews": 4761,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p178",
+    "title": "IKEA KIVIK 3-Seat Sofa",
+    "category": "Home & Furniture",
+    "price": 35000,
+    "originalPrice": 44100,
+    "discount": 26,
+    "rating": 4.8,
+    "reviews": 1142,
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400",
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+    ],
+    "description": "Experience the best with IKEA KIVIK 3-Seat Sofa. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p179",
+    "title": "Wakefit Memory Foam Mattress",
+    "category": "Home & Furniture",
+    "price": 12499,
+    "originalPrice": 13998,
+    "discount": 12,
+    "rating": 4.7,
+    "reviews": 4477,
+    "images": [
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400",
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?w=400"
+    ],
+    "description": "Experience the best with Wakefit Memory Foam Mattress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p180",
+    "title": "Godrej Slimline Wardrobe",
+    "category": "Home & Furniture",
+    "price": 22000,
+    "originalPrice": 29480,
+    "discount": 34,
+    "rating": 4.5,
+    "reviews": 5009,
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400",
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c?w=400"
+    ],
+    "description": "Experience the best with Godrej Slimline Wardrobe. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p181",
+    "title": "Levi's Men's 511 Slim Fit Jeans",
+    "category": "Fashion",
+    "price": 2599,
+    "originalPrice": 2988,
+    "discount": 15,
+    "rating": 4.6,
+    "reviews": 1949,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400",
+      "https://images.unsplash.com/photo-1542272604-780c822830f2?w=400"
+    ],
+    "description": "Experience the best with Levi's Men's 511 Slim Fit Jeans. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p182",
+    "title": "Nike Air Force 1 '07",
+    "category": "Fashion",
+    "price": 7495,
+    "originalPrice": 9293,
+    "discount": 24,
+    "rating": 4.8,
+    "reviews": 2585,
+    "images": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400",
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=400"
+    ],
+    "description": "Experience the best with Nike Air Force 1 '07. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p183",
+    "title": "Puma Men's Solid T-Shirt",
+    "category": "Fashion",
+    "price": 999,
+    "originalPrice": 1308,
+    "discount": 31,
+    "rating": 4.3,
+    "reviews": 2240,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+    ],
+    "description": "Experience the best with Puma Men's Solid T-Shirt. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p184",
+    "title": "Zara Floral Print Midi Dress",
+    "category": "Fashion",
+    "price": 2990,
+    "originalPrice": 3528,
+    "discount": 18,
+    "rating": 4,
+    "reviews": 1198,
+    "images": [
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400",
+      "https://images.unsplash.com/photo-1515347619362-e6eb20194bfb?w=400"
+    ],
+    "description": "Experience the best with Zara Floral Print Midi Dress. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p185",
+    "title": "Apple iPhone 14 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 129900,
+    "originalPrice": 141591,
+    "discount": 9,
+    "rating": 4,
+    "reviews": 3165,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with Apple iPhone 14 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p186",
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "Mobiles & Tablets",
+    "price": 124999,
+    "originalPrice": 166248,
+    "discount": 33,
+    "rating": 4.2,
+    "reviews": 4085,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400"
+    ],
+    "description": "Experience the best with Samsung Galaxy S23 Ultra. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p187",
+    "title": "OnePlus 11 5G",
+    "category": "Mobiles & Tablets",
+    "price": 56999,
+    "originalPrice": 74668,
+    "discount": 31,
+    "rating": 4.3,
+    "reviews": 4123,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400"
+    ],
+    "description": "Experience the best with OnePlus 11 5G. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p188",
+    "title": "Xiaomi 13 Pro",
+    "category": "Mobiles & Tablets",
+    "price": 79999,
+    "originalPrice": 100798,
+    "discount": 26,
+    "rating": 4.4,
+    "reviews": 4886,
+    "images": [
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400",
+      "https://images.unsplash.com/photo-1533228100845-08145b01de14?w=400"
+    ],
+    "description": "Experience the best with Xiaomi 13 Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p189",
+    "title": "Apple MacBook Pro M2",
+    "category": "Electronics",
+    "price": 199900,
+    "originalPrice": 235882,
+    "discount": 18,
+    "rating": 4.6,
+    "reviews": 2735,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+    ],
+    "description": "Experience the best with Apple MacBook Pro M2. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p190",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29990,
+    "originalPrice": 40186,
+    "discount": 34,
+    "rating": 4.4,
+    "reviews": 2405,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+    ],
+    "description": "Experience the best with Sony WH-1000XM5 Headphones. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p191",
+    "title": "Dell XPS 13",
+    "category": "Electronics",
+    "price": 145990,
+    "originalPrice": 178107,
+    "discount": 22,
+    "rating": 4.6,
+    "reviews": 1515,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=400"
+    ],
+    "description": "Experience the best with Dell XPS 13. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p192",
+    "title": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24900,
+    "originalPrice": 29631,
+    "discount": 19,
+    "rating": 4.1,
+    "reviews": 598,
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400"
+    ],
+    "description": "Experience the best with Apple AirPods Pro. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p193",
+    "title": "M.A.C Studio Fix Fluid Foundation",
+    "category": "Beauty",
+    "price": 3300,
+    "originalPrice": 4224,
+    "discount": 28,
+    "rating": 4.1,
+    "reviews": 570,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+    ],
+    "description": "Experience the best with M.A.C Studio Fix Fluid Foundation. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p194",
+    "title": "L'Oreal Paris Revitalift Serum",
+    "category": "Beauty",
+    "price": 999,
+    "originalPrice": 1308,
+    "discount": 31,
+    "rating": 4.8,
+    "reviews": 2137,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+    ],
+    "description": "Experience the best with L'Oreal Paris Revitalift Serum. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p195",
+    "title": "Plum Green Tea Face Wash",
+    "category": "Beauty",
+    "price": 345,
+    "originalPrice": 362,
+    "discount": 5,
+    "rating": 4,
+    "reviews": 4776,
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+    ],
+    "description": "Experience the best with Plum Green Tea Face Wash. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p196",
+    "title": "Maybelline New York Mascara",
+    "category": "Beauty",
+    "price": 399,
+    "originalPrice": 482,
+    "discount": 21,
+    "rating": 4.2,
+    "reviews": 3347,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400",
+      "https://images.unsplash.com/photo-1596462502278-27bf85033e5a?w=400"
+    ],
+    "description": "Experience the best with Maybelline New York Mascara. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p197",
+    "title": "Aashirvaad Shudh Chakki Atta, 5kg",
+    "category": "Grocery",
+    "price": 220,
+    "originalPrice": 242,
+    "discount": 10,
+    "rating": 4.8,
+    "reviews": 3270,
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    ],
+    "description": "Experience the best with Aashirvaad Shudh Chakki Atta, 5kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p198",
+    "title": "Tata Salt, 1kg",
+    "category": "Grocery",
+    "price": 28,
+    "originalPrice": 32,
+    "discount": 16,
+    "rating": 4.3,
+    "reviews": 2914,
+    "images": [
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400"
+    ],
+    "description": "Experience the best with Tata Salt, 1kg. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p199",
+    "title": "Maggi 2-Minute Noodles, 12 Pack",
+    "category": "Grocery",
+    "price": 168,
+    "originalPrice": 220,
+    "discount": 31,
+    "rating": 4.8,
+    "reviews": 4728,
+    "images": [
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400",
+      "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=400"
+    ],
+    "description": "Experience the best with Maggi 2-Minute Noodles, 12 Pack. High quality, premium build, and excellent value for money."
+  },
+  {
+    "id": "p200",
+    "title": "Amul Pure Ghee, 1L",
+    "category": "Grocery",
+    "price": 540,
+    "originalPrice": 696,
+    "discount": 29,
+    "rating": 4.5,
+    "reviews": 412,
+    "images": [
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400",
+      "https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?w=400"
+    ],
+    "description": "Experience the best with Amul Pure Ghee, 1L. High quality, premium build, and excellent value for money."
+  }
+]
